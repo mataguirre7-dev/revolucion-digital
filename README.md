@@ -1,7 +1,7 @@
 # revolucion-digital
 Portfolio personal hecho por Aguirre Matías
 
-Bueno en este proyecto puse todo mi conicmiento y habilidades de diseño web. Fue una experiencia muy grata debido a que aprendí un montón de cosas nuevas.
+Bueno en este proyecto puse todo mi conocimiento y habilidades de desarrollo web. Fue una experiencia muy grata debido a que aprendí un montón de cosas nuevas.
 
 A continuación se van a encontrar con un sitio web responsive, cuando la resolución es demasiado angosta entonces se adapta tanto a tablet como a celulares y el aside que vemos
 en la resolución de escritorio se convierte en un menú de hamburguesa funcional.
